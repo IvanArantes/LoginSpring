@@ -1,0 +1,10 @@
+com\senac\repository\UserRepository.class
+com\senac\controller\LoginController.class
+com\senac\model\Role.class
+com\senac\repository\RoleRepository.class
+com\senac\model\User.class
+com\senac\service\UserService.class
+com\senac\configuration\SecurityConfiguration.class
+com\senac\configuration\WebMvcConfig.class
+com\senac\DemoApplication.class
+com\senac\service\UserServiceImpl.class

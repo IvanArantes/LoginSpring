@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: LoginSpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ivan
+Implementation-Vendor-Id: com.senac
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/LoginSpring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
