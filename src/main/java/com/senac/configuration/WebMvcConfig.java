@@ -14,4 +14,9 @@ public class WebMvcConfig extends WebMvcConfigurerAdapter {
 		return bCryptPasswordEncoder;
 	}
 
+	@Bean
+	public MyAuthenticationSuccessHandler accessHandler() {
+		MyAuthenticationSuccessHandler accessHandler = new MyAuthenticationSuccessHandler();
+		return accessHandler;
+	}
 }

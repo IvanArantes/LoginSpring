@@ -7,7 +7,7 @@
   max-width: 420px;
   padding: 30px 38px 66px;
   margin: 0 auto;
-  background-color: #eee;
+  background-color: #fff2;
   border: 3px dotted rgba(0,0,0,0.1);  
   }
 
@@ -33,5 +33,9 @@ input[type="password"] {
   margin-bottom: 20px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+.centralizado {
+	margin-top:10%;
 }
 
